@@ -13,3 +13,6 @@ For an example:
 ```
 python -m pip install dlib-19.24.1-cp311-cp311-win_amd64.whl 
 ```
+
+## PS:
+Create an issue for more compiled files
