@@ -3,7 +3,7 @@ Dlib compiled binary (.whl) for python 3.11 on windows x64
 
 ## How to use:
 
-1- Download the file you need
+1- Download the file
 
 2- open cmd and locate to the folder where the file is
 
