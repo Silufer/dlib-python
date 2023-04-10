@@ -1,5 +1,5 @@
-# Dlib compiled wheels for Python 3.11 on Windows X64
-Dlib compiled binary (.whl) for python 3.11 on windows x64
+# Dlib compiled wheels for Python on Windows X64
+Dlib compiled binary (.whl) for python on windows x64
 
 ## How to use:
 
