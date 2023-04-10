@@ -1,7 +1,7 @@
 # Dlib compiled wheels for Python 3.11 on Windows 10/11 X64
 Dlib compiled binary (.whl) for python 3.11 for windows x64
 
-## How to use:
+### How to use:
 
 1- Download the file you need
 
